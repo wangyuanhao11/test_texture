@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "testtexture"
+    }
+  },
+  "defaultProject": "testtexture",
+  "cli": {
+    "analytics": "74a86923-eae9-436e-980b-5d6b5d4a7a47"
+  }
 }
